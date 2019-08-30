@@ -117,13 +117,24 @@ hr{
      margin: 5vw;
  }
 
- .fa-html5:hover, .fa-js-square:hover, .fa-css3-alt:hover{
-    color:black;
+ .fa-palette:hover{
+    color:red;
     animation-name: skillset;
     animation-duration: 5s;
     animation-iteration-count: infinite;
  }
-
+ .fa-pencil-ruler:hover{
+    color:skyblue;
+    animation-name: skillset;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+ }
+ .fa-wizards-of-the-coast:hover{
+    color:orange;
+    animation-name: skillset;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+ }
 
 /* =================welcome section css ends===================*/
 /* =================projects section css begins===================*/
@@ -420,8 +431,20 @@ hr{
      margin: 5vw;
  }
 
- .fa-html5, .fa-js-square, .fa-css3-alt{
-    color:black;
+ .fa-palette{
+    color:red;
+    animation-name: skillset;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+ }
+ .fa-pencil-ruler{
+    color:skyblue;
+    animation-name: skillset;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+ }
+ .fa-wizards-of-the-coast{
+    color:orange;
     animation-name: skillset;
     animation-duration: 5s;
     animation-iteration-count: infinite;
@@ -676,8 +699,20 @@ hr{
      margin: 5vw;
  }
 
- .fa-html5:hover, .fa-js-square:hover, .fa-css3-alt:hover{
-    color:black;
+ .fa-palette:hover{
+    color:red;
+    animation-name: skillset;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+ }
+ .fa-pencil-ruler:hover{
+    color:skyblue;
+    animation-name: skillset;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+ }
+ .fa-wizards-of-the-coast:hover{
+    color:orange;
     animation-name: skillset;
     animation-duration: 5s;
     animation-iteration-count: infinite;
